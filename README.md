@@ -1,2 +1,7 @@
-# mind-maps
-This repository will contain mind maps that helps to understand a domain better.
+# Mind Maps
+
+Mind maps are great way for learning, it encapsulates ideas that requires some level of thinking, so the fact that you are creating a mind map really tells what is your interpretation of such problems or how you understand them.
+
+They are also a hack/cheat sheet for topics to cover.
+
+
